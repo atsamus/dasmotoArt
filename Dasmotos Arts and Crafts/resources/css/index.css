@@ -1,0 +1,33 @@
+h1, h2, h3, p { /*  Font for Dasmoto Website */
+  font-family: Helvetica;
+}
+h1 { /* CSS style for Header portion of Dasmoto Website */
+  background-image:
+  url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki;
+  text-align: center;
+}
+.item h2 { /* Font color for Brush, Frame, Paint on dasmoto website */
+  color: White;
+  font-size: 32px;
+  font-weight: bold;
+}
+.item h3 {
+  font-weight: bold;
+}
+#brush { /* Brush Background color */
+  background-color: MediumspringGreen;
+  font-weight: bold;
+}
+.price { /* turns the price text in each paragraph to blue */
+  color: Blue;
+  font-weight: bold;
+}
+#frame { /* Frame Background color */
+  background-color: LightCoral;
+}
+#paint { /* Paint Background color */
+  background-color: SkyBlue;
+}
